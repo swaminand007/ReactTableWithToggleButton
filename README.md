@@ -1,2 +1,0 @@
-# ReactTableWithToggleButton
-Created with CodeSandbox
